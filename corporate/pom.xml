@@ -4,9 +4,13 @@
 
 	<groupId>com.pchudzik.blog.example</groupId>
 	<artifactId>corporate-dragon</artifactId>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 
 	<packaging>pom</packaging>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
 
 	<!-- use your imagination -->
 </project>
