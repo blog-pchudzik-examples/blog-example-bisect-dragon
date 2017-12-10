@@ -7,7 +7,7 @@ public class Multiply {
 		this.number = number;
 	}
 
-	public int by(int other) {
+	public int times(int other) {
 		return number * other;
 	}
 }
