@@ -35,6 +35,7 @@
 						<mysql.workdir:logs>/tmp/mysql/logs</mysql.workdir:logs>
 					</systemPropertyVariables>
 					<argLine>-Xmx256m</argLine>
+					<runOrder>alphabetical</runOrder>
 				</configuration>
 			</plugin>
 
