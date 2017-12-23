@@ -1,4 +1,4 @@
-(https://blog.pchudzik.com/201712/bisect-the-dragon/)[Blog post]
+[Blog post](https://blog.pchudzik.com/201712/bisect-the-dragon/)
 
 Run setup.sh which will install corporate pom-v1.xml and pom-v2.xml in your local repository.
 
